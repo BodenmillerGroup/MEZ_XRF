@@ -1,2 +1,2 @@
-# MEZ_XRF
-This is the repository companion to the MEZ-XRF paper
+# mez_xrf_paper
+This repository contains code for generating figures associated with the mez-xrf paper
