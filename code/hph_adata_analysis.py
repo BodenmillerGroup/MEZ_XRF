@@ -494,7 +494,6 @@ def adata_hph_channels_plot(
                 grid[grid_counter].add_artist(scalebar)
 
             grid_counter = grid_counter+1
-    plt.show()
 
 
     # Add a scale bar to each row
