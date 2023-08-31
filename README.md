@@ -34,4 +34,4 @@ The `hph` class has associated functions including single-cell segmentation with
 `hph_adata_analysis.py` handles multiple `hph.hdf` files for grouped analysis and ploting (e.g., to automatically match grayscale levels for single channel plots of different images for intensity comparison).
 
 ## Notebooks
-Notebooks were used to process and analyse raw data. A brief description of each notebook and the figures produced is associated in the header of each notebook.
+Notebooks were used to process and analyse raw data. A brief description of each notebook and the related publication figure can be found in the header of each notebook, or the savename of the output notebook figure.
