@@ -1,5 +1,5 @@
 # MEZ-XRF publication repository
-Multi-element Z-tag X-ray fluorescence (MEZ-XRF) is a multiplex bioimaging microscopy method. It is based on X-ray fluorescent mapping of elements targeted to different features of interest in tissue via affinity reagents (e.g., antibodies) conjugated to different (Z) elements (Z-tags). The method was developed and published in [*Multi-element Z-tag imaging by X-ray fluorescence microscopy for next-generation multiplex imaging*](https://www.nature.com/articles/s41592-023-01977-x).
+Multi-element Z-tag X-ray fluorescence (MEZ-XRF) is a multiplex bioimaging microscopy method. It is based on X-ray fluorescence mapping of elements targeted to different features of interest in tissue via affinity reagents (e.g., antibodies) conjugated to different (Z) elements (Z-tags). The method was developed and published in [*Multi-element Z-tag imaging by X-ray fluorescence microscopy for next-generation multiplex imaging*](https://www.nature.com/articles/s41592-023-01977-x).
 
 This repository contains Python code and Jupyter notebooks for processing and analysis of the MEZ-XRF (and related imaging mass cytometry, IMC) raw data presented in the linked publication. This includes code to generate the panels in the manuscript Figures.
 
