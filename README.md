@@ -17,7 +17,6 @@ The repository contains the following folders:
 
 | Notebooks | Notebooks for processing data |
 
-*Disclaimer: i ~~learnt~~ to code through this project, so expect  ameteurish decisions and style :).
 
 ## Code rationale
 ### high_plex_hdf.py
