@@ -12,7 +12,9 @@ XRF data were collected at the high energy beamline ID15A of the [European Synch
 The repository contains the following folders:
 
 | Setup | Contains a conda `environment.yml` for setting up a `MEZ-XRF` Python environment to run analysis |
+
 | Code | Python code for running analysis |
+
 | Notebooks | Notebooks for processing data |
 
 *Disclaimer: i ~~learnt~~ to code through this project, so expect  ameteurish decisions and style :).
