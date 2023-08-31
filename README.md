@@ -35,29 +35,4 @@ The `hph` class has associated functions including single-cell segmentation with
 `hph_adata_analysis.py` handles multiple `hph.hdf` files for grouped analysis and ploting (e.g., to automatically match grayscale levels for single channel plots of different images for intensity comparison).
 
 ## Notebooks
-Notebooks were used to process and analyse raw data. A brief description of each notebook follows.
-
-### Data processing notebooks
-- [1_XRF_Notebook](link)
-  - Stitches serial XRF scans together (useful for interrupted scans that were restarted)
-- [2_XRF_Notebook](link)
-  - Deconvolutes XRF scans based on a PyMCA configuration file (supplied with raw data)
-- [3_XRF_Notebook](link)
-  - Normalises XRF channel intensities to beam intensity (which drops ~2 % every hour before beam top up), and repackages XRF data to `hph.h5` files
-
-### XRF data analysis notebooks
-4. [4_XRF_Notebook](link)
-  - **(Figure X)**
-  - Measures XRF limits of detection from a gelatin standard series
-5. [5_XRF_Notebook](link)
-  - **(Figure X)**
-  - Segments single-cells from epithelial cell line images imaged with the silicon drift diode (SDD) detector
-6. [5_XRF_Notebook](link)
-  - **(Figure X)**
-  - Cytometry of epithelial cell line single-cells imaged with the silicon drift diode (SDD) detector
-7. [6_XRF_Notebook](link)
-  - **(Figure X)**
-  - Segments single-cells from breast cancer tissue microarray samples imaged with the silicon drift diode (SDD) detector
-8. [7_XRF_Notebook](link)
-  - **(Figure X)**
-  - lorem ipsum
+Notebooks were used to process and analyse raw data. A brief description of each notebook and the figures produced is associated in the header of each notebook.
